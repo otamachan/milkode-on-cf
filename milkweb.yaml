@@ -1,0 +1,12 @@
+---
+:home_title     : "Milkode on Cloud Foundry"
+:home_icon      : "/images/MilkodeIcon135.png"
+:home_font_size : "75%"
+
+:header_title: "Milkode"
+:header_icon : "/images/MilkodeIcon135.png"
+
+:favicon: "/images/favicon.ico"
+
+:display_about_milkode: true
+:hide_update_button: false
